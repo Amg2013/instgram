@@ -1,0 +1,13 @@
+{
+  "firestore": {
+    "rules": "allow read, write;",
+    "indexes": "firebase deploy --only firestore:rules"
+
+      
+  }
+    }
+   
+
+   
+  
+
